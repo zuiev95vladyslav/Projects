@@ -1,0 +1,11 @@
+.span-text{
+    display: block;
+}
+/* .common-informations{ */
+    width: 200px;
+    float: left;
+}
+div{
+    float: left;
+    width: -190px;
+}
